@@ -4,4 +4,5 @@
 
 * **Output:**
 
-![Output](https://user-images.githubusercontent.com/50715776/145128556-f61000c3-9b4d-44b6-ab7f-518a5be53243.png)
+
+![output](https://user-images.githubusercontent.com/50715776/145441255-5093bc0c-e04e-4c13-81a3-920f08d72ffa.png)
